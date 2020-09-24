@@ -11,7 +11,7 @@
 
 ## Class diagram
 
-![none](https://github.com/GorlanovaAV/gorlanovaAV.github.io/blob/master/Lab%201/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png?raw=true)
+![none](https://github.com/monpase007/laba.github.io/blob/master/laba/6%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2.png?raw=true)
 
 ## Usecase diagram
 
