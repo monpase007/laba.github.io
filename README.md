@@ -15,7 +15,7 @@
 
 ## Usecase diagram
 
-![](https://github.com/GorlanovaAV/gorlanovaAV.github.io/blob/master/Lab%201/usecase1.png?raw=true)
+![](https://github.com/monpase007/laba.github.io/blob/master/laba/uscase.png?raw=true)
 
 # Лабораторная 2
 
