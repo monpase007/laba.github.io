@@ -5,7 +5,7 @@
 
 Предложение: Выращивание арбуза.
 
-![pic](https://github.com/GorlanovaAV/gorlanovaAV.github.io/blob/master/Lab%201/6%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2.png?raw=true)
+![pic](https://github.com/monpase007/laba.github.io/blob/master/laba/Screenshot_1.png?raw=true)
 
 Предложение: Фермер выращивает арбуз по Заказу из Семян и воды с помощью Трактора и Рабочих людей.
 
