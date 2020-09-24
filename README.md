@@ -1,5 +1,5 @@
 # Отчет а лабораторных работах
-# [ИДБ-17-07](https://github.com/monpase007/laba.github.io) Филиппов Ю.С.
+# [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/List-IDB-17-07) Филиппов Юрий
 
 # Лабораторная 1
 
@@ -37,12 +37,3 @@
 
 ![none](https://github.com/GorlanovaAV/gorlanovaAV.github.io/blob/master/Lab%202/Usecase2.png?raw=true)
 
-# Лабораторная 3
-
-# Лабораторная 4
-
-# Лабораторная 5
-
-# Лабораторная 6
-
-# Лабораторная 7
