@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+BackgrroundColor White
+ArrowColor Black
+BorderColor Black
+}
+class "Фермер" as P {
+Трактор, Рабочая люди
+Выростить(Семена и вода, Заказ):Арбуз
+}
+hide circle
+@enduml
