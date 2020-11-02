@@ -39,3 +39,18 @@
 
 [Код](https://github.com/monpase007/laba.github.io/blob/master/laba2/code.txt)
 
+## Диаграмма последовательности
+
+![none](https://github.com/monpase007/laba.github.io/blob/master/laba3/Screenshot_2.png)
+
+[Код](https://github.com/monpase007/laba.github.io/blob/master/laba3/text1.txt)
+
+Администратор отправляет заказ в виде требований покупателя помощнику кондитера, а тот подтверждает получение заказа.
+Владелец поля отправляет заказ на выращивание готового продукта(арбуза), а инжинер аграрного дела уже выращивает и отдает готовый продукт.
+## ER-диаграмма
+
+![none](https://github.com/monpase007/laba.github.io/blob/master/laba3/Screenshot_1.png)
+
+[Код](https://github.com/monpase007/laba.github.io/blob/master/laba3/text2.txt)
+
+Заказ является записью Базы данных, которая относится к Информационным потокам, и состоит из: Технологии выращивания, Сырья и Арбуза.
