@@ -39,6 +39,8 @@
 
 [Код](https://github.com/monpase007/laba.github.io/blob/master/laba2/code.txt)
 
+## Лабораторная 3
+
 ## Диаграмма последовательности
 
 ![none](https://github.com/monpase007/laba.github.io/blob/master/laba3/Screenshot_2.png)
