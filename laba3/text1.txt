@@ -1,0 +1,12 @@
+@startuml
+actor "Владелец посадки" as owner
+boundary "Поле выращивания" as app
+entity "Техника и борудование" as data
+actor "Аграрный инжинер" as trainee
+owner -> app : Запрос
+app -> data : Заказ 
+data -> app : Выдача
+app -> trainee : Сырье
+trainee -> app : Выращивание арбуза
+app -> owner : Готовый продукт
+@enduml
