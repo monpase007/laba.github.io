@@ -1,4 +1,4 @@
-# Студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07) Бороздин Н.М.
+# Студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07) Филиппов Ю.С.
 
 ## Отчёт по лабораторным работам [1 - 3](https://github.com/monpase007/laba.github.io/wiki/laba-1-3)
 
