@@ -1,0 +1,100 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+
+() HTTP
+() TCPIP
+
+node "Web Client" {
+
+component browser [
+"executable"
+
+Web Browser
+]
+
+browser - HTTP
+
+}
+
+node "Web Server" {
+
+package "Design" {
+
+component style [
+"file"
+
+style.css
+]
+
+component main [
+"file"
+
+main.scss
+]
+
+}
+
+
+package "Script" {
+
+component min [
+"file"
+
+
+component libs [
+"file"
+
+libs.min.js
+]
+
+
+component main [
+"file"
+
+main.js
+]
+
+}
+
+component index [
+"document"
+
+index.jsx
+]
+
+component template [
+"document"
+
+template.jsx
+]
+
+
+index ..> "Script"
+index ..> "Design"
+index ..> template
+}
+
+node "My Sql" {
+component db [
+"database"
+
+questions
+]
+
+component table [
+"tables"
+
+...
+]
+
+db ..> table
+
+}
+
+
+"Web Server" - TCPIP
+"Firebase" - TCPIP
+HTTP - "Web Server"
+@enduml
