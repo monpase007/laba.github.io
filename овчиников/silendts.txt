@@ -1,0 +1,48 @@
+@startuml
+skinparam monochrome true
+
+actor Пользователь as user
+participant "Сайт" as web
+participant "Сервер" as serv
+database "База данных" as base
+
+user -> web : Добавление поста и вопроса
+activate web
+web -> serv : Информация о постах и вопросах
+activate serv
+serv -> base : Добавление поста и вопроса
+activate base
+base -> serv : Успешное добавление
+serv-> web : Добавленные вопрос и пост
+deactivate base
+deactivate serv
+web -> user : Отображение поста и вопроса
+deactivate web
+
+user -> web : Добавление ответа
+activate web
+web -> serv : Информация об ответе
+activate serv
+serv -> base : Добавление ответа
+activate base
+base -> serv : Успешное добавление
+serv-> web : Добавленный ответ
+deactivate base
+deactivate serv
+web -> user : Отображение ответа
+deactivate web
+
+user -> web : Запрос учебной информации
+activate web
+web -> serv : Данные об учебной информации
+activate serv
+serv -> base : Запрос выборки списка учебной информации
+activate base
+base -> serv : Учебна информация
+serv -> serv : Сортировка учебной информации
+serv-> web : Отсортированная учебная иформация
+deactivate base
+deactivate serv
+web -> user : Отображение учебной информации 
+deactivate web
+@enduml
